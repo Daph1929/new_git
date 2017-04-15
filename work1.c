@@ -10,5 +10,6 @@ int main( )
 	printf("h1\n");
 	printf("h2\n");
 	printf("h3\n");
+	printf("more\n");
 	return 0;
 }
